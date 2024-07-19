@@ -29,7 +29,7 @@ Day 1-2: Faced errors in data training due to insufficient size of data and trie
 
 Day 3: Begin to make restaurant reservation website as the errors seemed to be very time consuming. Made a few changes in the previously created webpages.
 
-Day4: Worked on the next webpages to complete the website.
+Day 4: Worked on the next webpages to complete the website with HTML and CSS. Made the webpages for date ,time and number of guests.
 
 Day 5: Picked up on  database connectivity with the website.
 
